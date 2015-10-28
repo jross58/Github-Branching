@@ -7,4 +7,5 @@
 Cat
 Dog
 Fish
-Birdie
+Bird
+Rabbit
