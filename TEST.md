@@ -6,5 +6,5 @@
 
 Cat
 Dog
-Fishh
+Fish
 Birdie
