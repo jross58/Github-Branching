@@ -5,7 +5,7 @@
 #####Heading
 
 Cat
-Dawg
+Dog
 Fish
 Bird
 Rabbit
